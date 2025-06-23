@@ -1,4 +1,4 @@
-# 🌐 Dharma Portfolio
+# 🌐 Prakash Portfolio
 
 Welcome to my personal developer portfolio built with **Next.js** and **Tailwind CSS** — designed to showcase my projects, skills, and passion for Machine Learning and AI.
 
